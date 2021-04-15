@@ -1,3 +1,3 @@
-** COVID-19 App
+## COVID-19 App
 
-An application to visualize global data for infected, recovered, and deaths from COVID-19
+* An application to visualize global data for infected, recovered, and deaths from COVID-19
