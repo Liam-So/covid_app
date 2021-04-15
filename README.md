@@ -1,3 +1,3 @@
-COVID-19 App
+** COVID-19 App
 
-This is the first commit
+An application to visualize global data for infected, recovered, and deaths from COVID-19
